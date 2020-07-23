@@ -107,23 +107,30 @@ body {
     margin-top: 180px;
     width: 60px;
     padding-left: 33px;
+    text-decoration: none;
 }
 .facebook-button {
     font-size: 27px;
     color: white;
     padding-top: 23px;
     margin-left: 60px;
+    text-decoration: none;
+}
+.redes a:hover {
+  text-decoration: underline red;
 }
 .twitter-button {
     font-size: 27px;
     color: white;
     padding-top: 23px;
     margin-left: 60px;
+    text-decoration: none;
 }
 .instagram-button {
     font-size: 27px;
     color: white;
     padding-top: 23px;
     margin-left: 60px;
+    text-decoration: none;
 }
 
